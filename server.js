@@ -7,7 +7,7 @@ let express = require('express');
 let app = express();
 
 // create the port constant
-const port = 3000;
+const port2 = 3000;
 
 /** * Get port from environment and store in Express. */ let port = process.env.PORT || '3000'; app.set('port', port);
 
